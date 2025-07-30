@@ -1,7 +1,7 @@
 # 🌐 ARI - Arquitetura de Redes e IoT
 
 <p align="center">
-  <img src="Logo_ARI/logo_iot.png" alt="Logo IoT e Redes" width="140">
+  <img src="Logo_ARI/ARI.png" alt="Logo IoT e Redes" width="140">
 </p>
 
 Este repositório contém atividades práticas desenvolvidas na disciplina de **Arquitetura de Redes e IoT (ARI)**, com foco em redes de computadores, conceitos de Internet das Coisas (IoT), e aplicações utilizando microcontroladores como o ESP8266.
